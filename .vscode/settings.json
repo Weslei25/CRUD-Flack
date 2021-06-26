@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/home/weslei/Desenvolvimento/Python/CRUD-Flack/venv/bin/python",
+  "pythonautovenv.autoInstallVenv": true,
+  "pythonautovenv.pipPath": "pip3",
+  "pythonautovenv.pythonPath": "python3"
+}
